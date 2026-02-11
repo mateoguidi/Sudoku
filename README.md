@@ -27,7 +27,7 @@ A modern, interactive Sudoku game built with React, TypeScript, and Vite. Featur
 
 1. Clone the repository:
 ```bash
-git clone https://gitlab.mateoguidi.fr/mateo/sudoku.git
+git clone git@github.com:MateoGuidi/Sudoku.git
 cd sudoku
 ```
 
@@ -111,3 +111,4 @@ src/
 ## License
 
 This project is open source and available under the MIT License.
+
