@@ -2,6 +2,8 @@
 
 A modern, interactive Sudoku game built with React, TypeScript, and Vite. Features multiple grid sizes, difficulty levels, and a sleek UI with gradient backgrounds and smooth animations.
 
+![Sudoku Screenshot](/screenshot.png)
+
 ## Features
 
 - **Multiple Grid Sizes**: Play on 2x2, 2x3, or classic 3x3 grids
@@ -111,4 +113,5 @@ src/
 ## License
 
 This project is open source and available under the MIT License.
+
 
